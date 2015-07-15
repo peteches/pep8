@@ -54,3 +54,4 @@ else
   endif
 endif
 
+command! -nargs=0 Pep8 :call <SID>Pep8()
